@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Happy Birthday</title>
+	<link rel="stylesheet" href="css/style.css" />
+	
+
+  </head>
+  <body>
+	<h1 style="text-align:center;">Happy Birthday</h1>
+	<h2 style="text-align:center;" title="Sylhet Cycling Community">SCC</h2>
+	
+	<canvas id="birthday"></canvas>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/Audio-HTML5.js"></script>
+	<script type="text/javascript" src="js/my.js"></script>
+	<script type="text/javascript">
+
+// PLAYER VARIABLES
+
+var mp3snd = "your-sound.mp3";
+
+document.write('<audio autoplay="autoplay">');
+document.write('<source src="'+mp3snd+'" type="audio/mpeg">');
+document.write('<!--[if lt IE 9]>');
+document.write('<bgsound src="'+mp3snd+'" loop="1">');
+document.write('<![endif]-->');
+document.write('</audio>');
+
+</script>
+</body>
+</html>
