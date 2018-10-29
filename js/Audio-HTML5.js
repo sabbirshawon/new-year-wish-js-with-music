@@ -4,7 +4,7 @@
 
 
 var mp3snd 	= "birthday.mp3";	// MP3 FILE
-var oggsnd 	= "audio-file.ogg";	// OGG FILE
+var oggsnd 	= "birthday.ogg";	// OGG FILE
 
 
 var loopsong	= "no"			// LOOP MUSIC | yes | no |
@@ -18,7 +18,8 @@ var centerp	= "no"			// CENTER PLAYER | yes | no |
 
 
 // -----------------------------------------------
-// Created by: Allwebco Design Corporation
+// Created by: Sabbir Shawon
+// Live Link: https://sabbirshawon.github.io/birthday-wish-js-with-music/
 // No License is included. This script can be freely copied, distributed or sold
 // YOU DO NOT NEED TO EDIT BELOW THIS LINE
 
