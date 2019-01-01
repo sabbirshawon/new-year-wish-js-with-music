@@ -1,1 +1,1 @@
-# A Simple Birthday wish with music in JavaScript.
+# A Simple New Year wish with music in JavaScript.
